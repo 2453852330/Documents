@@ -1,18 +1,22 @@
 # how to start
 
 1. enable the plugin
+
 ![enable_plugin](./tex/enable_plugins.png)
 
 2. create a widget 
+
 ![create_widget](./tex/create_widget.png)
 
 3. selete the widget component from Simple Charts category
+
 ```
 All the Widget components are under the **Simple Charts** category.
 ```
 ![select_widget](./tex/select_widget.png)
 
 4. modify the settings
+
 ![modify_settings](./tex/modify_settings.png)
 
 ```
